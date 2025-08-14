@@ -1,3 +1,6 @@
+### Members
+- Joan Emmanuel Umaña Grajales
+
 ## What we made
 An original 30 second musical piece created entirely in **Audacity** using the **sampling** technique. We combined at least three audio samples from **freesound.org**, transformed them (kinda) (trim, time-stretch, pitch-shift, EQ, reverb), and arranged them
 ## Why we made it this way (justification)
@@ -10,3 +13,4 @@ An original 30 second musical piece created entirely in **Audacity** using the *
 - **Project Rate**: 44100 Hz (bottom-left in Audacity)
 - **Bit depth**: 16-bit (defaults are fine)
 - **BPM (guide/click)**: 120 BPM (via `Generate → Rhythm Track`), 4/4 time
+
